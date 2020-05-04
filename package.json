@@ -30,7 +30,7 @@
     "discord.js": "^11.4.2",
     "enmap": "^4.3.2",
     "klaw": "^2.1.1",
-    "moment": "^2.22.2",
+    "moment": "^2.25.1",
     "moment-duration-format": "^2.2.2",
     "readline-sync": "^1.4.9"
   }
